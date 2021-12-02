@@ -1,0 +1,1 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iSikanderShaikh&repo=Simple-Music-Player-App-In-Android)](https://github.com/iSikanderShaikh/Simple-Music-Player-App-In-Android)
